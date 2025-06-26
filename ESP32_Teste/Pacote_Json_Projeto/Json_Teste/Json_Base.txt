@@ -1,0 +1,22 @@
+{
+	"Perguntas Discursiva": [
+        {
+           "Pergunta": "Oque você está sentindo hoje ?",
+	   "Resposta": "Resposta do usuário captada no Microfone"
+        },
+        
+        {
+           "Pergunta": "Oque foi desafiador para você hoje ?",
+	   "Resposta": "Resposta do usuário captada no Microfone"
+        }
+
+        ],
+
+	"Perguntas Alternativa": {
+           "Pergunta": "Você gosta de trabalhar na Softtek ?",
+	   "Resposta": "Resposta do Botão sim ou não"
+        }
+}
+
+
+
