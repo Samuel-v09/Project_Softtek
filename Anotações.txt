@@ -1,3 +1,0 @@
-Arduino:
-
-- Serialize é para converter dado em JSON, Já a Deserialize faz o processo contrário converte JSON em dado. 
